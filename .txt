@@ -1,0 +1,6 @@
+venv/
+node_modules/
+heroku/
+__pycache__/
+*.pyc
+.env
